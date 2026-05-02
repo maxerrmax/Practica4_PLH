@@ -6,3 +6,4 @@ cc.es.300.vec.gz
 models.zip
 requirements.txt
 SPA.csv
+*.pt
